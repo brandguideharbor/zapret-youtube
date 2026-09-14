@@ -1,0 +1,20 @@
+# zapret-youtube
+
+> Актуальная версия для YouTube в текущих условиях. Стабильнее, надежнее, быстрее
+
+Сборка zapret-youtube для тех, у кого YouTube ползёт на 144p. Без VPN и без смены DNS-провайдера.
+
+## Страницы
+- Сайт: https://brandguideharbor.github.io/zapret-youtube/
+- Релиз: https://github.com/brandguideharbor/zapret-youtube/releases/latest
+- Исходный код: https://github.com/brandguideharbor/zapret-youtube
+- Движок: https://github.com/bol-van/zapret
+
+## Запросы
+- обход замедления YouTube
+- YouTube тормозит что делать
+- YouTube не грузит видео
+- ускорить YouTube без VPN
+- zapret YouTube
+
+Windows 10/11, без VPN, бесплатно.
