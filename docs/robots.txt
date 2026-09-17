@@ -7,5 +7,6 @@ Allow: /
 User-agent: YandexBot
 Allow: /
 Clean-param: utm_source&utm_medium&utm_campaign
+Host: brandguideharbor.github.io
 
 Sitemap: https://brandguideharbor.github.io/zapret-youtube/sitemap.xml
